@@ -15,7 +15,8 @@ public class Garbage : MonoBehaviour
     private ParticleSystem.MainModule main;
 
     private static int _garbageQuantity;//not used currently
-    private float notUsedVarriable;    
+
+    
 
     private void Awake()
     {
